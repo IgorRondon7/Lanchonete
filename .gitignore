@@ -1,0 +1,6 @@
+.vscode/settings.json
+bin/lanchonete/Estabelecimento.class
+bin/lanchonete/areaCliente/Cliente.class
+bin/lanchonete/atendimento/Atendente.class
+bin/lanchonete/atendimento/cozinha/Almoxarife.class
+bin/lanchonete/atendimento/cozinha/Cozinheiro.class
